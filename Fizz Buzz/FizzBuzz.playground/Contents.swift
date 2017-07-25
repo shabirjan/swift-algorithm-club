@@ -18,4 +18,4 @@ func fizzBuzz(_ numberOfTurns: Int) {
   }
 }
 
-fizzBuzz(100)
+fizzBuzz(1)
